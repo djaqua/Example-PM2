@@ -1,0 +1,23 @@
+{
+  "name": "example-pm2",
+  "version": "1.0.0",
+  "description": "Example NodeJS service and instructions for basic administration with PM2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djaqua/Example-PM2.git"
+  },
+  "author": "Drew Jaqua <anjaqua@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djaqua/Example-PM2/issues"
+  },
+  "homepage": "https://github.com/djaqua/Example-PM2#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "yargs": "^6.0.0"
+  }
+}
